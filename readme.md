@@ -1,7 +1,3 @@
-![GitHub top language](https://img.shields.io/github/languages/top/QueenDekim/telegram-wireguard-vpn-bot)
-![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/QueenDekim/telegram-wireguard-vpn-bot/total)
-![GitHub commit activity](https://img.shields.io/github/commit-activity/m/QueenDekim/telegram-wireguard-vpn-bot?label=commits)
-![GitHub Repo stars](https://img.shields.io/github/stars/QueenDekim/telegram-wireguard-vpn-bot)
 
 ---
 <h1 align=center>This is fork of <a href="https://github.com/svishnevskii/telegram_wireguard">svishnevskii/telegram_wireguard</a> repositry</h1>
@@ -90,12 +86,3 @@ In telegram bot:<br>
   "alert_to_extend_sub": " \uD83C\uDF81 Your VPN снова предлагает тебе бесплатный тестовый период на 7 дней\n\n✅ Уверены ты оценишь наш VPN \n\nДанные для входа были обновлены, скачайте новый файл авторизации через раздел \"Как подключить :gear:\"",
   "add_trial_days": 7
 }
-```
----
-
-|                                                links                                                                         |                                 description                                         |
-|:----------------------------------------------------------------------------------------------------------------------------:|:-----------------------------------------------------------------------------------:|
-|[![Discord](https://img.shields.io/discord/1003119748382466049?label=Ascento%20TEAM%20Discord)](https://discord.gg/HVZ5UfuZnq)|                              Our Discord server                                     |
-|![Static Badge](https://img.shields.io/badge/Discord-from__russia__with__love-purple)                                         |                                My Discord tag                                       |
-|[![Static Badge](https://img.shields.io/badge/Telegram-%40QueenDek1m-blue)](https://t.me/QueenDek1m)                          |                                  My telegram                                        |
-|[![Static Badge](https://img.shields.io/badge/Telegram-%40Dekim__vpn__bot-blue)](https://t.me/Dekim_vpn_bot)                  |                     My telegram bot for example (fully operational)                 |
